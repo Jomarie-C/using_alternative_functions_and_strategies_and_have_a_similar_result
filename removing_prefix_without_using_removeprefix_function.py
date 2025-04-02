@@ -1,2 +1,7 @@
 input_string = input("Enter a string: ")
-prefix = input("Enter a prefix to remove: ")
+prefix = input("Enter the prefix to remove: ")
+
+if input_string.startswith(prefix):
+    result = input_string[len(prefix):]  
+else:
+    result = input_string
