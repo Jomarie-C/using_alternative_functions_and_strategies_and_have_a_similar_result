@@ -9,3 +9,5 @@ for char in full_name:
             correct_format += char
     else:
         correct_format += char
+
+print("Output:", correct_format)
