@@ -1,4 +1,2 @@
-# Pseudocode
-    # Ask the user for an input
-    # Create a condition to confirm and remove the suffix in the given input
-    # Display the output
+input_string = input("Enter a string: ")
+suffix = input("Enter the suffix to remove: ")
