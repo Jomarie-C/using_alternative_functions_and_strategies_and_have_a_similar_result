@@ -1,6 +1,3 @@
-# Pseudocode
-    # Ask the user to enter a string
-    # Ask the user to enter the substring
-    # Initialize the value of count with 0
-    # Create a loop that will check the user input
-    # Display output
+input_string = input("Enter a string: ")
+substring = input("Enter the substring to count: ")
+count = 0
