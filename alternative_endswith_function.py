@@ -1,4 +1,2 @@
-# Pseudocode 
-    # Ask the user to enter a string
-    # Ask the user to enter the suffix they want to check
-    # Check if the string ends with the specified suffix
+input_string = input("Enter a string: ")
+suffix = input("Enter the suffix you want to check: ")
