@@ -6,3 +6,5 @@ for char in full_name:
         reverse_casing += char.upper()
     if char.isupper():
         reverse_casing += char.lower()
+
+print("\nOutput:", reverse_casing)
