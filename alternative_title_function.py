@@ -6,3 +6,5 @@ for char in range(len(input_string)):
         correct_format += input_string[char].upper()
     else:
         correct_format += input_string[char].lower()
+
+print("Output:", correct_format)
