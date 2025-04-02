@@ -1,5 +1,2 @@
-# Pseudocode
-    # Ask the user to enter a string
-    # Ask for the total lenght
-    # Assigning values for each variables
-    # Display the expected output
+input_string = input("Enter a string: ")
+total_lenght = int(input("Enter the total lenght: "))
