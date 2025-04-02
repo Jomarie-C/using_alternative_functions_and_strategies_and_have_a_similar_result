@@ -1,0 +1,1 @@
+# using_alternative_functions_and_strategies_and_have_a_similar_result
