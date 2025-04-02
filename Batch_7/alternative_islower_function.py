@@ -7,3 +7,8 @@ for char in input_string:
     elif char.isalpha():
         correct_format = False
         break
+
+if correct_format:
+    print("All characters are lowercase.")
+else:
+    print("Not all characters are lowercase.")
